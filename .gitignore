@@ -1,5 +1,12 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+src/App.test.js
+package-lock.json
+src/App.css
+src/logo.svg
+src/reportWebVitals.js
+ src/setupTests.js
+.gitignore
 # dependencies
 /node_modules
 /.pnp
